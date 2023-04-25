@@ -260,6 +260,118 @@ O tato, que se refere às sensações corporais (em relação ao nosso próprio 
 
 Repare que todas essas substituições ajudam a dar movimento e vida ao storytelling; nós passamos a nos sentir dentro da cena, com uma riqueza muito maior de detalhes. Além disso, ao fazer um esforço de imaginar o que está sendo descrito, já nos colocamos de maneira mais atenta e conectada à narração.
 
+Foi considerado o “sexto sentido”, o fluxo de pensamentos. A questão é que só conseguimos ter acesso ao que outras pessoas pensam quando elas nos falam, mas, em algumas histórias, é fundamental entender como o personagem estava se sentindo, como o personagem estava pensando sobre o que estava acontecendo. Por isso, devemos inserir o fluxo de pensamentos também no modo cênico.
+
+![image](https://user-images.githubusercontent.com/52088444/234301046-fa0d99e1-8efb-4feb-bc7f-4d5d2ba8901f.png)
+
+Note: na primeira frase, nós temos a ideia de que a pessoa não estava feliz com seu trabalho, mas, na segunda, nós conseguimos compreender a dimensão da angústia que ele estava sentindo.
+
+Novamente, lembre-se: sempre que possível, não conte, mostre!
+
+## Recapitulando
+
+Existem dois modos de contar uma história:
+
+- modo sumário, que é aquele em que os fatos são citados de maneira superficial e que deve ser usado quando estamos contando uma parte menos importante da narrativa; - modo cênico, que é quando construímos uma cena com sons, cheiros, imagens, sensações, diálogos e personagens, e que deve ser usado nas partes em que queremos gerar uma maior conexão com o público.
+
+E, por fim, aprendemos como usar os sentidos do corpo para despertar mais emoção no público, seguindo a máxima "não conte, demonstre".
+
+## exemplo de como aplicar o storytelling nos negócios. Veremos um vídeo realizado pela campanha “Criança Esperança” 
+
+a Campanha Criança Esperança é realizada em parceria entre a Rede Globo de Televisão e a UNESCO (Organização das Nações Unidas para a Educação, a Ciência e a Cultura) desde 1986, com o objetivo de conscientizar a população brasileira sobre os direitos das crianças e dos adolescentes e de arrecadar fundos para o apoio de projetos que cuidam de crianças e jovens em situações desfavoráveis.
+
+Como uma forma de mostrar os efeitos do apoio e convidar o público a doar, este vídeo foi produzido.
+
+São 37 anos realizando sonhos, como os da Dandara e do Jefferson, do Solar, Meninos de Luz, que recebeu doação do Criança Esperança.
+Meu nome é Dandara, curso pedagogia e também sou desenhista. O Solar com certeza mudou a vida da minha família. Eu tive muitas oportunidades, assim como meu irmão. Eu tive a oportunidade do intercâmbio, tive a oportunidade de ensino de faculdade.
+O Solar me serviu como base para muitas coisas, não só a parte educacional, mas também como ser humano. Agora, estamos aqui nos Estados Unidos, com toda essa base, em um laboratório que é super inclusivo. Nesse sentido, o Solar transformou minha vida e acho que transforma de muitas outras crianças. Nós formamos crianças para desenvolverem a área que quiserem. Nós investimos dezoito anos em cada criança, durante dez horas por dia. É muito mais do que acreditar, é viver, conduzir, é abraçar. Eles podem qualquer coisa.
+
+Criança Esperança 2022, a sua doação pode transformar vidas. Doe pela chave pix esperanca@unesco.org. Educação é a nossa esperança.
+
+O vídeo apresenta o colégio integral “Solar Meninos de Luz”, uma instituição apoiada pelo Criança Esperança, que fornece educação de qualidade para crianças e adolescentes da periferia.
+
+Pare e pensa um pouco: quais das técnicas de storytelling que aprendemos no nosso curso são usadas na construção desse vídeo? Você acha que ele é mais eficiente que um anúncio simples, sem storytelling?
+
+Com certeza sim!
+
+Vamos analisa-lo na ordem em que vimos os assuntos aqui no curso, ok?
+![image](https://user-images.githubusercontent.com/52088444/234302879-603e7920-efae-415c-9429-974c583dadd9.png)
+![image](https://user-images.githubusercontent.com/52088444/234303065-64c10a19-40cd-418f-8b72-64530322ec8c.png)
+- Primeiro, em relação à estrutura. O arco narrativo é construindo seguindo o passo a passo que aprendemos: tem a ambientação, em que é apresentada a realidade do projeto e das crianças beneficiadas; logo após, tem a ilustração de como esse cenário mudou a partir do evento-mote, que foi o contato com o projeto que tem o apoio do Criança Esperança.
+Além disso, vemos o desenvolvimento da narrativa: a vida das crianças e dos adolescentes mudou e alguns tiveram como destino a entrada na universidade e uma vida profissional de sucesso. E, por fim, temos a frase final de efeito, que é “A sua doação pode transformar vidas”, seguida de um chamado para a ação, ou seja, de um apelo para a doação. Um roteiro simples, com as cinco partes.
+
+Se observarmos pensando no que aprendemos nesta seção, veremos que a máxima “não conte, demonstre” é bem explorada, considerando que não há uma listagem dos serviços que a escola oferece, mas sim a exibição nas crianças comendo, estudando, brincando, praticando esportes, felizes e bem cuidadas.
+
+Além de vermos o efeito a longo prazo, ouvindo os depoimentos dos jovens que estudam em boas universidades e trabalham.
+
+Em relação à audiência, como se trata de um anúncio que é transmitido na TV aberta, para os mais diversos públicos notamos que ele é curto, tem uma linguagem simples e é emocionante.
+
+## Dicas de como aplicar o storytelling
+
+- Como usar o storytelling para construir e difundir uma cultura organizacional?
+
+![image](https://user-images.githubusercontent.com/52088444/234304074-c8e54e39-b879-4747-96b9-f293cb53f7fa.png)
+
+Tudo isso cria uma identidade na organização. Inicialmente, ela se forma pelos valores de seu fundador e, com o tempo, ela se molda através das interações e processos compartilhados por seus colaboradores.
+
+E por que ela é importante? Isso mesmo, porque, quando a cultura organizacional é forte, conseguimos contratar pessoas que estão alinhadas à empresa, o que, consequentemente, tende a gerar um clima melhor e a permanência dos talentos na instituição. Além disso, essa identidade também é fundamental na definição de aspectos importantes, como políticas internas, processos e objetivos coletivos. O que você pode estar se perguntando agora é o que esse assunto tem a ver com o storytelling e é o que vou te contar agora.
+
+**Cultura Organizacional X Storytelling
+
+O storytelling foi uma das habilidades que ajudou a construir a cultura humana. A ligação humana com as histórias é quase tão antiga quanto a própria humanidade. Os vestígios achados por estudiosos apontam que, ainda na pré história, com a descoberta do fogo, o dia foi prolongado pela luz das chamas e nossos antepassados passaram a ter mais tempo para atividades além da caça e da coleta. Eles passaram, então, a ficar ao redor da fogueira todas as noites, compartilhando informações que ajudaram a perpetuar a espécie, como onde encontrar alimentos, mas também passaram a socializar e criar tradições culturais, fortalecendo o senso de comunidade que originou a civilização como conhecemos hoje. Se isso foi o que aconteceu com a cultura humana, imagine o que pode acontecer com a cultura da sua empresa ou da empresa em que você trabalha. 
+
+Tradicionalmente, a cultura organizacional é transmitida através de treinamentos institucionais e de momentos de interações, como reuniões e até mesmo em conversas informais.
+
+Mas acho que você, assim como eu, já participou de eventos desse tipo que não geraram nada além de tédio, não é mesmo?
+
+Aplicando o storytelling, você vai conseguir dinamizar esses momentos, além de tornar as informações mais memoráveis. Vamos usar o exemplo de Paulo, ele é gerente de vendas e já fez o nosso curso sobre storytelling. Por isso, quando recepciona um colaborador novo, ele não entrega o folheto com a missão, a visão e os objetivos da empresa, mas conta a história de como a empresa foi criada, como as pessoas se relacionam ali e pode até mesmo contar como foi seu início lá, gerando a sensação de acolhimento e identificação. Ao invés de apresentar uma nova técnica de venda usando PowerPoint, Paulo faz uma encenação com a equipe, transformando os colaboradores em vendedores e clientes e ensinando, na cena, como cada um pode aplicar a técnica Que vai garantir o negócio fechado.
+
+Mas, agora, pensa que o nosso amigo tem uma questão bem como um atualmente: 
+uma parte de sua equipe foi contratada após a pandemia, para trabalhar remotamente de vários lugares do país. Moderno, mas também podem ser bem solitário e gerar ruídos em relação às diferentes culturas regionais. Sendo assim, o que fazer para garantir que eles interajam com o resto do time e não passem a se sentir mal em relação ao trabalho?
+
+Paulo decidiu fazer um happy hour diferente: pediu para que cada membro escolhesse um objeto que representasse o seu lugar de moradia. Cada funcionário contou a história do seu objeto para os colegas, o que rendeu muitas risadas e um maior senso de comunidade.
+
+Bem, acho que você entendeu a ideia, não é?
+
+Usar storytelling para comunicar ideias e valores vai ajudar a manter seus colaboradores engajados e coesos em torno de um ideal.
+
+![image](https://user-images.githubusercontent.com/52088444/234306883-bf8cf025-b3ee-4697-8620-eaa328c57c93.png)
+
+
+## Como usar storytelling no marketing e nas vendas?
+
+![image](https://user-images.githubusercontent.com/52088444/234307753-f971b132-bab7-4560-b284-9465da62d16d.png)
+
+
+Além disso, é preciso que você explore muito uso dos sentidos, especialmente se você vende pela internet e o cliente não está vendo seu produto ou resultado do seu serviço pessoalmente.
+
+![image](https://user-images.githubusercontent.com/52088444/234307992-66cb16be-498b-43fe-9b36-72127c5786d9.png)
+![image](https://user-images.githubusercontent.com/52088444/234308352-16761022-e7d8-4949-a3d5-c9b8ee1a9b79.png)
+![image](https://user-images.githubusercontent.com/52088444/234308386-be7d33f6-4310-4372-901c-74289bf55b42.png)
+
+
+## Com melhorar a oratória
+
+
+![image](https://user-images.githubusercontent.com/52088444/234309094-3793fc0d-9211-43b8-90a0-9155925d0b05.png)
+![image](https://user-images.githubusercontent.com/52088444/234309143-f35bb995-8829-4e81-9220-9990db2cd23d.png)
+
+![image](https://user-images.githubusercontent.com/52088444/234309268-bfa8d563-e17b-4aed-a856-59058662e3ee.png)
+![image](https://user-images.githubusercontent.com/52088444/234309595-2d512fa5-be4a-412c-b5db-1ba2879b0575.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
