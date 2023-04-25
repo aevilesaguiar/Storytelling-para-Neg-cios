@@ -1,1 +1,0 @@
-# Storytelling-para-Neg-cios
